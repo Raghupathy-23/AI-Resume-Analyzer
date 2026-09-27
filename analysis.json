@@ -1,0 +1,20 @@
+{
+    "match_score": 33,
+    "matching_skills": [
+        "Python",
+        "SQL"
+    ],
+    "missing_skills": [
+        "Git",
+        "REST API",
+        "Docker",
+        "AWS"
+    ],
+    "interview_readiness": "Low. While the candidate demonstrates proficiency in Python and SQL, the job description is for a 'Python Developer' requiring specific backend/devops skills (Git, REST API, Docker, AWS) which are entirely absent from the resume. The candidate's experience and projects are strongly aligned with Data Analysis roles, not software development.",
+    "suggestions": [
+        "Acquire and demonstrate practical experience in Git, REST API development/integration, Docker, and AWS through personal projects or certifications.",
+        "Showcase Python development projects that extend beyond data analysis, focusing on application development, backend services, or automation to align with a developer role.",
+        "Tailor the resume's 'PROFILE SYNOPSIS' and project descriptions to highlight software development methodologies, problem-solving, and tools relevant to a Python Developer if this is the target role.",
+        "Consider applying for Data Analyst or Data Engineer roles where the current skillset (SQL, Python for data, Power BI) is a much stronger match."
+    ]
+}
