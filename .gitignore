@@ -1,19 +1,15 @@
-# Environment variables and secrets
 .env
+.env.local
 .env.*
-
-# Python virtual environment
-venv/
-.venv/
-
-# Python cache
+!.env.example
 __pycache__/
 *.py[cod]
-
-# IDE
-.vscode/
-.idea/
-
-# Testing
+.venv/
+venv/
+node_modules/
+dist/
+backend/uploads/*
+!backend/uploads/.gitkeep
 .pytest_cache/
 .coverage
+.DS_Store
