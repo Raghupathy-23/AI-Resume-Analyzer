@@ -13,3 +13,6 @@ backend/uploads/*
 .pytest_cache/
 .coverage
 .DS_Store
+/main.py
+/test_api.py
+/test_gemini.py
